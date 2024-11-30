@@ -1,6 +1,6 @@
 {
-  "domain": "switcher_kis",
-  "name": "Switcher",
+  "domain": "switcher_beta",
+  "name": "Switcher Beta",
   "codeowners": ["@thecode", "@YogevBokobza"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/switcher_kis",
